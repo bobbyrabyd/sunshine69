@@ -1,0 +1,16 @@
+#
+# Created by WebMap 2.0b9
+# Wednesday, June 26, 1996 at 4:14 PM
+# Format: NCSA
+#
+
+
+rect /Altamont.html 435,178 504,243
+rect /The_Mission.html 297,224 403,253
+rect /Nob_Hill.html 192,218 294,249
+rect /Haight.html 173,174 256,214
+rect /Golden_Gate.html 270,173 421,202
+rect /Presidio.html 202,150 306,170
+rect /South_Berkeley.html 349,120 461,173
+rect /Golden_Gate.html 231,96 337,147
+default /69_Map.html

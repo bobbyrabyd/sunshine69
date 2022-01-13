@@ -1,0 +1,13 @@
+#
+# Created by WebMap 2.0b9
+# Monday, July 1, 1996 at 11:17 AM
+# Format: NCSA
+#
+
+
+rect http://www.sunshine69.com/69_Suits.html 315,208 403,287
+rect http://www.sunshine69.com/69_Map.html 183,226 312,288
+rect http://www.sunshine69.com/69_8_track.html 182,205 242,222
+rect http://www.sunshine69.com/June.html 198,179 254,204
+rect http://www.sunshine69.com/Birds.html 2,29 43,74
+default http://www.sunshine69.com/Drive_69.html

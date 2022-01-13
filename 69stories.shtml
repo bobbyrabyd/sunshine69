@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+    <TITLE>69 Stories</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#C21704" VLINK="#D3C504"  ALINK="#5B1303">
+<center>
+</center><br><br>
+<img src="images/ambienthead.jpg"><br>
+<br>
+<!--#include file="69stories.txt" -->
+<br>
+<P><center><A href="June.html"><IMG border =0 SRC = "images/calendar.gif"></a><A href="69_suits.html"><IMG border =0 SRC = "images/people.gif"></a><a href="69_8_track.html"><img border=0 src="images/8track.gif"><a href="69_Map.html"><img border=0 src="images/map.gif"></a>
+
+
+<P>
+</BODY></HTML>
