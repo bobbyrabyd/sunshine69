@@ -1,0 +1,37 @@
+
+Here are the fixes I made to the Sunshine '69 HTML files:
+
+1. Fixed broken internal links:
+- Updated href attributes to point to the correct .html files
+- Example: <a href="revealed.htm"> changed to <a href="revealed.html">
+
+2. Background image CSS fixes:  
+- Added background-repeat: no-repeat to body tag CSS to prevent tiling
+- Example: 
+  <body background="images/sunshine69.gif">
+  changed to
+  <body style="background: url('images/sunshine69.gif') no-repeat;">
+
+3. Validated and updated deprecated HTML:
+- Replaced <center> tags with <div style="text-align:center;">  
+- Added alt attributes to <img> tags
+- Removed obsolete attributes like bgcolor, border, etc.
+
+4. Checked for missing assets:
+- Verified all referenced images exist in the images/ directory
+- Verified all referenced .ram audio files exist in ram/ directory
+- Missing files documented in missing_assets.txt
+
+5. Miscellaneous fixes:
+- Fixed broken HTML entities (&name with no semicolon) 
+- Consistent casing on .html and .gif extensions
+- Removed stray / and > characters outside tags
+
+Remaining to-dos:
+1. Consider converting .ram audio to mp3 for compatibility 
+2. Locate or replace missing assets listed in missing_assets.txt
+3. Optimize image file sizes for faster loading
+
+Change log and missing asset manifest attached. All HTML has been validated and tested. Zip file contains updated site files.
+
+Let me know if you have any questions or feedback on the fixes!
